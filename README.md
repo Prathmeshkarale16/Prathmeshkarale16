@@ -144,7 +144,6 @@ Building scalable web applications today and production-ready AI systems tomorro
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Prathmeshkarale16&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Prathmeshkarale16&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prathmeshkarale16&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
