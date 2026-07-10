@@ -142,20 +142,21 @@ Building scalable web applications today and production-ready AI systems tomorro
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prathmeshkarale16&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmeshkarale16&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prathmeshkarale16&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="170"/>
+## 🏆 GitHub Trophies
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmeshkarale16&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170"/>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prathmeshkarale16&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Prathmeshkarale16&style=flat-square"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Prathmeshkarale16&style=flat-square" />
 </p>
