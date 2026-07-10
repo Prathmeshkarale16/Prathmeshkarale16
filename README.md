@@ -143,20 +143,14 @@ Building scalable web applications today and production-ready AI systems tomorro
 ---
 
 # 📊 GitHub Stats:
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prathmeshkarale16&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmeshkarale16&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Prathmeshkarale16&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Prathmeshkarale16&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prathmeshkarale16&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prathmeshkarale16&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Prathmeshkarale16&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Prathmeshkarale16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prathmeshkarale16&style=flat-square&color=blue" />
-</p>
+
