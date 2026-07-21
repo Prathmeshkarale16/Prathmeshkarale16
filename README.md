@@ -19,7 +19,7 @@ Building scalable web applications today and production-ready AI systems tomorro
 - 🎓 B.Tech Computer Science & Engineering student at **IIIT Bhopal**
 - 💻 Passionate about **Full Stack Development** and **AI Engineering**
 - 🚀 Building scalable web applications using **React, Node.js & MongoDB**
-- 🤖 Currently exploring **LLMs, Agentic AI, RAG, Multi-Agent Systems & MCP**
+- 🤖 Currently exploring **LLMs, Gen AI, Agentic AI, RAG, Multi-Agent Systems & MCP**
 - ⭐ **3★ CodeChef Programmer**
 - 🧩 Solved **500+ DSA Problems**
 - 🌱 Always learning and building production-ready software
